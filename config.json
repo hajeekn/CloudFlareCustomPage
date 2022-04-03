@@ -8,12 +8,12 @@
   
     "i18n":{
         "zh_CN":{
-            "PROVIDER":"此错误界面由ChenYFan制作",
-            "PROVIDER_URL":"https://blog.cyfan.top",
+            "PROVIDER":"此错误界面由 Hajeekn 制作",
+            "PROVIDER_URL":"https://blog.slqwq.cn",
             "CLIENT":"您",
             "RES":"这是由CloudFlare返回的错误详细信息",
-            "EDGE":"ChenYFanの边缘节点",
-            "SERVER":"ChenYFanの服务器",
+            "EDGE":"Hajeeknの边缘节点",
+            "SERVER":"Hajeeknの服务器",
             "SIMPLR_WHY":"这是怎么回事？",
             "SIMPLR_HOW":"我能干点啥？",
             "YOUR_IP":"您的IP是：",
@@ -41,7 +41,7 @@
             "5S": {
                 "TITLE": "WAIT | 嗨！停停！",
                 "CODE":"WAIT",
-                "SIMPLR_DES":"稍等5S即可访问",
+                "SIMPLR_DES":"海内存知己，天涯若比邻，你需要等待5秒钟",
                 "WEB_STATUS":0,
                 "EDGE_STATUS":1,
                 "EDGE_ERROR":"我们感觉我们被打了，因此将您停了一下",
